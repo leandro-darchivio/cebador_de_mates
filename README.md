@@ -26,12 +26,6 @@ Este proyecto es un **cebador automático de mates** desarrollado con Arduino Un
 
 ---
 
-## 🖥️ **Esquema eléctrico**
-
-Incluye el esquema de conexión entre el Arduino, los sensores, la válvula y la resistencia calefactora. Si necesitas ayuda para crear el diagrama, ¡puedo generarlo para ti!  
-
----
-
 ## 💻 **Código**
 
 El código del proyecto está disponible en el archivo [**`cebador_de_mates.ino`**](./cebador_de_mates.ino). Contiene las siguientes funcionalidades:
